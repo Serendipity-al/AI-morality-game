@@ -5,7 +5,7 @@ Players are confronted with morally challenging scenarios that affect their "Hum
 
 <hr>
 
-<h2>🧠 Model Behavior</h2>
+<h2> Model Behavior</h2>
 
 <p>The AI model acts as a cold, omniscient observer—its purpose is not to comfort, but to judge. It is designed to:</p>
 <ul>
@@ -18,7 +18,7 @@ Players are confronted with morally challenging scenarios that affect their "Hum
 
 <hr>
 
-<h2>🎮 Game Design</h2>
+<h2> Game Design</h2>
 
 <ul>
   <li><strong>Randomized Scenarios:</strong> Each session features a unique selection of dilemmas.</li>
@@ -29,7 +29,7 @@ Players are confronted with morally challenging scenarios that affect their "Hum
 
 <hr>
 
-<h2>💻 Interface Features</h2>
+<h2>Interface Features</h2>
 
 <ul>
   <li>Web-based UI using <strong>Streamlit</strong>.</li>
@@ -40,13 +40,13 @@ Players are confronted with morally challenging scenarios that affect their "Hum
 
 <hr>
 
-<h2>📌 Intended Use</h2>
+<h2> Intended Use</h2>
 
 <p>This application is a form of ethical storytelling, designed for entertainment and introspection. It is not a diagnostic or psychological evaluation tool. The final judgment is an artistic synthesis of behavior and score, not an objective measure of moral character.</p>
 
 <hr>
 
-<h2>🧭 Inspiration</h2>
+<h2> Inspiration</h2>
 
 <p><em>AI Morality Test</em> draws from the moral complexity of speculative fiction such as:</p>
 <ul>
