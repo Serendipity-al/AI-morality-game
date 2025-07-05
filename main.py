@@ -7,7 +7,7 @@ from openai import OpenAI
 
 # Attempt to import scenarios. If it fails, provide a helpful message.
 try:
-    from scenarios import SCENARIOS
+     from scenarios import SCENARIOS
 except ImportError:
     print("Error: Could not find scenarios.py.")
     print("Please ensure the file exists in the 'game' directory and contains a list named SCENARIOS.")
